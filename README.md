@@ -5,6 +5,7 @@ I'm a software engineer from India, mainly self-taught, a fast learner, and a ch
 
 ### 👨🏻‍💻 About Me
 
+- 🌱 I’m currently learning **Rust**
 - 🔭 I love exploring new technologies.
 - 🤔 I always try to understand the underlying things when I'm coding.
 
