@@ -9,8 +9,6 @@ I'm a software engineer from India, mainly self-taught, a fast learner, and a ch
 
 - 🔭 I love exploring new technologies.
 - 🤔 I always try to understand the underlying things when I'm coding.
-- 🎓 I started to learn how to code at the age of 14.
-- ⚡ Fun fact: My second name is Sebastian, and I like it more than Luis.
 
 ### 🛠 Tech
 
