@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Snehal Srivastava</h1>
+<h1 align="center">Hi 👋, I'm Mani Kandan</h1>
 
 
 I'm a software engineer from India, mainly self-taught, a fast learner, and a challenge seeker. I'm in love with my family, Blockchain and I want to build the best software in the web3 world.
